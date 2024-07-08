@@ -1,3 +1,6 @@
 minh 
 truong
 long
+hoang
+nam
+trung 
